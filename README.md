@@ -29,7 +29,7 @@
         <sup>5</sup>Beijing Academy of Artificial Intelligence
     </span>
 
-[Website](https://sainingzhang.github.io/project/gaussianart/) | [Arxiv](https://arxiv.org/abs/2508.14891) | [Data]()
+[Website](https://sainingzhang.github.io/project/gaussianart/) | [Arxiv](https://arxiv.org/abs/2508.14891) | [Data](https://huggingface.co/datasets/LiCheng23/MPArt-90)
 </div>
 </div>
 
