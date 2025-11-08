@@ -9,7 +9,7 @@
     <span class="author-block">
         <a href="https://sainingzhang.github.io/" target="_blank">Saining Zhang ✶</a><sup>1,2</sup>,</span>
         <span class="author-block">
-        Honghan Li<sup>1,2</sup>,</span>
+        Honghan Li ✶<sup>1,2</sup>,</span>
         <span class="author-block">
         Peilin Yang<sup>3</sup>,</span>
         <span class="author-block">
