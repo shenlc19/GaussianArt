@@ -5,28 +5,28 @@
 
 <div align="center" margin-bottom="6em">
     <span class="author-block">
-        <a href="https://shenlc19.github.io/" target="_blank">Licheng Shen✶</a><sup>1</sup>,</span>
+        <a href="https://shenlc19.github.io/" target="_blank">Licheng Shen✶</a><sup>1,2</sup>,</span>
     <span class="author-block">
-        <a href="https://sainingzhang.github.io/" target="_blank">Saining Zhang ✶</a><sup>1,2</sup>,</span>
+        <a href="https://sainingzhang.github.io/" target="_blank">Saining Zhang ✶</a><sup>1,2,3</sup>,</span>
         <span class="author-block">
-        Honghan Li ✶<sup>1,2</sup>,</span>
+        Honghan Li ✶<sup>1,2,3</sup>,</span>
         <span class="author-block">
-        Peilin Yang<sup>3</sup>,</span>
+        Peilin Yang<sup>1,4</sup>,</span>
         <span class="author-block">
-        <a href="https://zihao-inorganic.github.io/" target="_blank">Zihao Huang</a><sup>4</sup>,</span>
+        <a href="https://zihao-inorganic.github.io/" target="_blank">Zihao Huang</a><sup>1,5</sup>,</span>
         <span class="author-block">
-        Zongzheng Zhang<sup>1</sup>,</span>
+        Zongzheng Zhang<sup>1,2</sup>,</span>
         <span class="author-block">
-        <a href="https://sites.google.com/view/fromandto" target="_blank">Hao Zhao†</a><sup>1,5</sup></span>
+        <a href="https://sites.google.com/view/fromandto" target="_blank">Hao Zhao†</a><sup>2,1</sup></span>
     <br>
     <p style="font-size: 0.9em; padding: 0.5em 0;">✶ indicates equal contribution 
     † corresponding author</p>
     <span class="author-block">
-        <sup>1</sup>Institute for AI Industry Research(AIR), Tsinghua University &nbsp&nbsp 
-        <sup>2</sup>Nanyang Technological University
-        <sup>3</sup>Beijing Institute of Technology
-        <sup>4</sup>Huazhong University of Science and Technology
-        <sup>5</sup>Beijing Academy of Artificial Intelligence
+        <sup>1</sup>Beijing Academy of Artificial Intelligence 
+        <sup>2</sup>Institute for AI Industry Research(AIR), Tsinghua University 
+        <sup>3</sup>Nanyang Technological University
+        <sup>4</sup>Beijing Institute of Technology
+        <sup>5</sup>Huazhong University of Science and Technology
     </span>
 
 [Website](https://sainingzhang.github.io/project/gaussianart/) | [Arxiv](https://arxiv.org/abs/2508.14891) | [Data](https://huggingface.co/datasets/LiCheng23/MPArt-90)
